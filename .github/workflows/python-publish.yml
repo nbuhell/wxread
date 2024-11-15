@@ -1,4 +1,4 @@
-name: Deploy
+name: Read-Deploy
 
 on:
   schedule:
